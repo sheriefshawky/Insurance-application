@@ -1,0 +1,4 @@
+entity Insurance {
+	comment String,
+    picture ImageBlob
+}
